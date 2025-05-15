@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="Zwt90Hdwg0-GEpJWusQqPA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="cb40a189-8fe7-4c53-8a72-2f1d0c2aaf31" CvElementArea="9, 62, 1910, 942" CvType="InputBox" DesignTimeRectangle="9, 63, 1899, 947" ElementType="InputBox" FuzzySelectorArgument="&lt;wnd cls='Edit' /&gt;&lt;ctrl name='Text Editor' role='editable text' automationid='' matching:name='fuzzy' fuzzylevel:name='0.0' matching:automationid='fuzzy' fuzzylevel:automationid='0.0' /&gt;" Guid="b7ad794b-c3da-4300-918e-8857205d0b8e" ScopeSelectorArgument="&lt;wnd app='notepad.exe' cls='Notepad' title='UiPath Automation - Notepad' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="cb40a189-8fe7-4c53-8a72-2f1d0c2aaf31" CvTextArea="199, 42, 33, 16" CvTextArgument="Help" CvType="Text" DesignTimeRectangle="193, 38, 46, 24" FuzzySelectorArgument="&lt;ctrl automationid='MenuBar' name='Application' role='menu bar' matching:automationid='fuzzy' fuzzylevel:automationid='0.0' matching:name='fuzzy' fuzzylevel:name='0.0' /&gt;&lt;ctrl name='Help' role='menu item' automationid='' matching:name='fuzzy' fuzzylevel:name='0.0' matching:automationid='fuzzy' fuzzylevel:automationid='0.0' check:text='Help' /&gt;" Guid="7f61861c-26c5-4f61-b7ce-3e6d7d0f3adf" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="e0bd76c7b801bf1f0ec37d158428325c.png" xmlns="">09yTPYn2FMkqv01_L3BsioQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
