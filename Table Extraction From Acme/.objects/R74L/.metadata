@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome (7281) UiPath Tutorial for Beginners  2024 Beginner's Guide to UiPath Tutorial ",
+  "Type": "App",
+  "Id": "R74LqNlU8EOqjdcBI-C6gA",
+  "Reference": "G1UBouaVlkun1baSqhc0sg/R74LqNlU8EOqjdcBI-C6gA",
+  "Created": "2025-05-14T16:49:53.7831473Z",
+  "Updated": "2025-05-14T16:49:53.7831473Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.2.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

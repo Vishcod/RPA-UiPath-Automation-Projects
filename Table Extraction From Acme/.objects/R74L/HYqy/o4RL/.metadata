@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome (7281) UiPath Tutorial for Beginners  ",
+  "Type": "Screen",
+  "Id": "o4RLzYn-1EC32lIXsrhcPw",
+  "Reference": "G1UBouaVlkun1baSqhc0sg/o4RLzYn-1EC32lIXsrhcPw",
+  "ParentRef": "G1UBouaVlkun1baSqhc0sg/HYqyEJ96s0-g6uZav9h7qA",
+  "Created": "2025-05-14T16:49:54.0445289Z",
+  "Updated": "2025-05-14T16:49:54.0445289Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.2.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
